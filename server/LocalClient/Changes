@@ -1,0 +1,6 @@
+Revision history for Perl extension Local::Client.
+
+0.01  Sat Mar 17 14:31:35 2018
+	- original version; created by h2xs 1.23 with options
+		-n Local::Client -b 5.16.0 -X
+
